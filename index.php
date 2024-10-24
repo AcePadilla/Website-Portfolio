@@ -61,6 +61,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <li class="nav__item"><a href="#about" class="nav__link">About</a></li>
                         <li class="nav__item"><a href="#skills" class="nav__link">Skills</a></li>
                         <li class="nav__item"><a href="#contact" class="nav__link">Contact</a></li>
+                        <li class="nav__item"><a href="Works.html" class="nav__link">Projects</a></li>
                         <li class="nav__item"><a href="Works.html" class="nav__link"><i class="fa-solid fa-folder-closed"></i></a></li>
                         <li class="nav__item"><img src="certificates/moon.png" id="icon"></li>
                     </ul>
@@ -226,6 +227,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <a href="https://www.facebook.com/Eeeyyyssss" class="footer__icon"><i class='bx bxl-facebook' ></i></a>
                 <a href="https://www.instagram.com/ace_.padilla/" class="footer__icon"><i class='bx bxl-instagram' ></i></a>
                 <a href="https://twitter.com/acepadilla_" class="footer__icon"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="https://github.com/AcePadilla" class="footer__icon"><i class="fa-brands fa-github"></i></a>
                 <a href="mailto:acepadillaace@gmail.com" class="footer__icon"><i class="fa-solid fa-envelope"></i></a>
             </div>
             <p class="footer__copy">&#169; AchieveCodeElevate. All rigths reserved</p>
